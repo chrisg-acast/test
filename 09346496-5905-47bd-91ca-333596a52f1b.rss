@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+    <channel>
+        <generator>https://wordpress.org/?v=6.1.1</generator>
+        <title>A Slob Comes Clean Podcast with Dana K White</title>
+        <link>https://www.aslobcomesclean.com/category/podcasts/</link>
+        <language>en-US</language>
+        <copyright>A Slob Comes Clean - All Rights Reserved</copyright>
+        <itunes:author>Dana K. White</itunes:author>
+        <itunes:summary>Nony (Dana K White) from ASlobComesClean.com shares reality-based cleaning and organizing tips based on her own deslobification process. As she finds ways to keep her own home under control and combat "Slob Vision" she shares cleaning, decluttering, and organizing strategies, that work in real life. And she's funny.</itunes:summary>
+        <description><![CDATA[<p>Reality-Based Cleaning, Organizing and Decluttering</p>]]></description>
+        <itunes:type>episodic</itunes:type>
+        <itunes:owner>
+            <itunes:name>Dana K. White</itunes:name>
+            <itunes:email>gonzalez.chris@icloud.com</itunes:email>
+        </itunes:owner>
+        
+        <itunes:image href="http://www.aslobcomesclean.com/wp-content/uploads/2022/09/A-Slob-Comes-Clean-Podcast-art-1-scaled.jpg"/>
+        
+        
+        
+            
+            <itunes:category text="Technology" />
+
+            
+
+        
+        
+
+        
+        <itunes:explicit>no</itunes:explicit>
+        
+        
+        
+        
+        
+        
+            <item>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:title>Episode 3</itunes:title>
+                <title>Episode 3</title>
+
+                
+                
+                <itunes:author>Chris Gonzalez</itunes:author>
+                
+                <description><![CDATA[<p>This is the third episode.</p>]]></description>
+                <content:encoded>&lt;p&gt;This is the third episode.&lt;/p&gt;</content:encoded>
+                
+                <enclosure length="5281332" type="audio/mpeg" url="https://audio1.redcircle.com/episodes/60dbbf26-49f1-4df7-81f8-e5ff1cb90c8a/stream.mp3"/>
+                
+                <guid isPermaLink="false">65af7952-adbd-4ef2-b06a-18dc4d7a8604</guid>
+                <link>https://redcircle.com/shows/09346496-5905-47bd-91ca-333596a52f1b/episodes/60dbbf26-49f1-4df7-81f8-e5ff1cb90c8a</link>
+                <pubDate>Tue, 12 Jul 2022 17:04:00 &#43;0000</pubDate>
+                <itunes:duration>330</itunes:duration>
+                
+                <itunes:explicit>no</itunes:explicit>
+                
+            </item>
+        
+            <item>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:title>Episode 2</itunes:title>
+                <title>Episode 2</title>
+
+                
+                
+                <itunes:author>Chris Gonzalez</itunes:author>
+                
+                <description><![CDATA[<p>This is the 2nd episode.</p>]]></description>
+                <content:encoded>&lt;p&gt;This is the 2nd episode.&lt;/p&gt;</content:encoded>
+                
+                <enclosure length="5281332" type="audio/mpeg" url="https://audio1.redcircle.com/episodes/b72a9fa6-c9bc-4a55-8700-1405923ff151/stream.mp3"/>
+                
+                <guid isPermaLink="false">5b4de468-636b-42fe-a70a-58f1a24818a9</guid>
+                <link>https://redcircle.com/shows/09346496-5905-47bd-91ca-333596a52f1b/episodes/b72a9fa6-c9bc-4a55-8700-1405923ff151</link>
+                <pubDate>Tue, 12 Jul 2022 17:03:00 &#43;0000</pubDate>
+                <itunes:duration>330</itunes:duration>
+                
+                <itunes:explicit>no</itunes:explicit>
+                
+            </item>
+        
+            <item>
+                <itunes:episodeType>full</itunes:episodeType>
+                <itunes:title>Episode 1</itunes:title>
+                <title>Episode 1</title>
+
+                
+                
+                <itunes:author>Chris Gonzalez</itunes:author>
+                
+                <description><![CDATA[<p>The first episode</p>]]></description>
+                <content:encoded>&lt;p&gt;The first episode&lt;/p&gt;</content:encoded>
+                
+                <enclosure length="5281332" type="audio/mpeg" url="https://audio1.redcircle.com/episodes/2e9a87d1-509b-4f8b-80f4-6ad6bfd0d892/stream.mp3"/>
+                
+                <guid isPermaLink="false">7e3b3694-22c6-485a-a305-6d9f43f8fc37</guid>
+                <link>https://redcircle.com/shows/09346496-5905-47bd-91ca-333596a52f1b/episodes/2e9a87d1-509b-4f8b-80f4-6ad6bfd0d892</link>
+                <pubDate>Tue, 12 Jul 2022 17:00:00 &#43;0000</pubDate>
+                <itunes:duration>330</itunes:duration>
+                
+                <itunes:explicit>no</itunes:explicit>
+                
+            </item>
+        
+    </channel>
+</rss>
